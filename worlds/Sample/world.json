@@ -1,0 +1,20 @@
+{
+  "name": "SampleWorld",
+  "asset_packs": {
+    "hyrule": {
+      "path": "assets/hyrule"
+    }
+  },
+  "map": [
+    ["hyrule:path", "hyrule:path", "hyrule:rock", "hyrule:path2", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path"],
+    ["hyrule:path2", "hyrule:path", "hyrule:tree", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path"],
+    ["hyrule:rock", "hyrule:path2", "hyrule:path", "hyrule:path2", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path"],
+    ["hyrule:path", "hyrule:path2", "hyrule:path", "hyrule:rock", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path"],
+    ["hyrule:rock", "hyrule:path2", "hyrule:path", "hyrule:path2", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path"],
+    ["hyrule:rock", "hyrule:path2", "hyrule:path", "hyrule:path2", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path"],
+    ["hyrule:rock", "hyrule:path2", "hyrule:path", "hyrule:path2", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path"],
+    ["hyrule:rock", "hyrule:path2", "hyrule:path", "hyrule:path2", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path"],
+    ["hyrule:rock", "hyrule:path2", "hyrule:path", "hyrule:path2", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path"],
+    ["hyrule:rock", "hyrule:path2", "hyrule:path", "hyrule:path2", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path", "hyrule:path"]
+  ]
+}

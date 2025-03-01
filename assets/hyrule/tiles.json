@@ -1,0 +1,6 @@
+{
+  "path": { "type": "ground", "path": "textures/path.png" },
+  "path2": { "type": "ground", "path": "textures/path2.png" },
+  "rock": { "type": "collide", "path": "textures/rock1_top.png" },
+  "tree": { "type": "collide", "path": "textures/tree1.png" }
+}
