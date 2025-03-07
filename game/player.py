@@ -1,10 +1,12 @@
+import pygame
+
 class Player:
-    def __init__(self, x, y, tile_size):
+    def __init__(self, x, y, size):
         self.x = x
         self.y = y
-        self.size = tile_size  # Match tile size
+        self.size = size
         self.color = (0, 255, 0)  # Bright green
-        self.speed = 0.5  # Slower movement for better control
+        self.speed = 1.5
 
     def move(self, keys):
         if keys[pygame.K_w] or keys[pygame.K_UP]:
